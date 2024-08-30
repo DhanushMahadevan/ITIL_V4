@@ -1,0 +1,19 @@
+"ITIL v4 is not consideres ITIL Version 4 Instead, It's ITIL for the fourth industrial revolution"
+
+Industrial Revolution (ITIL V4):
+
+1st ( Mechanization- iron & Textile Industries, steam engine and Water power) [19th Century]: 
+
+	- Humanity moved from an agrarian-based rural society of farmers into an urbanized, industrial area and later developed some of our country's largest cities. 
+
+2nd ( CARS [Internal Combustion engines],Mass production and Electricity,Light Bulb,Telephones ) :
+
+	- Industries expanded to include steel, oil, electricity and electrically-powererd equipment to aid in the Mass prodution of goods.
+
+3rd ( Digital Revolution ) [1980] :
+
+	- With Analog & Digital Electronices, PC ,Internet, IT 
+	- ITIL was FIRST DEVELOPED  as a series of best practices and guidence to run an IT organisation.
+	- ITIL began in the 1980s as a way for organizations to create processes and procedures to better run their IT Systems.
+
+4th ( Cyber Physical Systems, Robotics, Nanotechnology, AI , IOT & Autonomous Cars ) [21st Century] :
